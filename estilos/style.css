@@ -7,8 +7,8 @@
 }
 
 html, body {
-    height: 100vh;
-    width: 100vh;
+    height: 99vh;
+    width: 114vh;
     background-color: black;
 }
 
@@ -50,10 +50,10 @@ section#redes-sociais {
 }
   
 section#redes-sociais img {
-    width: 50px;
-    margin: 10px;
-    border-radius: 50%;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.425);
+    width: 46px;
+    margin: 3px;
+    border-radius: 29%;
+    box-shadow: 2px 2px 5px rgb(0 0 0 / 43%);
     box-sizing: border-box;
 
 }
